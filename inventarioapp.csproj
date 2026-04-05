@@ -5,6 +5,11 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    
+    <AssemblyName>InventarioApp</AssemblyName>
+    <RootNamespace>InvetarioApp</RootNamespace>
+    <Version>1.0.0.0</Version>
+    <Description>Sistema de gestión de inventario - Curso Fundamentos .NET</Description>
+    
   </PropertyGroup>
-
 </Project>
